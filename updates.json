@@ -2,37 +2,37 @@
     "updates": {
       "windows": {
         "open-url": "",
-        "latest-version": "1.0",
-        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-        "changelog": "This is an example changelog for Windows. Go on...",
+        "latest-version": "0.0.1",
+        "download-url": "https://raw.githubusercontent.com/HZRelaper/GatewayTool/main/GatewayTool.zip",
+        "changelog": "睿珀网关配置工具的初始版本",
         "mandatory": true
       },
       "osx": {
         "open-url": "",
-        "latest-version": "1.0",
-        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-        "changelog": "This is an example changelog for Mac OS X. Go on...",
+        "latest-version": "0.0.0",
+        "download-url": "",
+        "changelog": "",
         "mandatory": true
       },
       "linux": {
         "open-url": "",
-        "latest-version": "1.0",
-        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-        "changelog": "This is an example changelog for Linux. Go on...",
+        "latest-version": "0.0.0",
+        "download-url": "",
+        "changelog": "",
         "mandatory": true
       },
       "ios": {
         "open-url": "",
-        "latest-version": "1.0",
-        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-        "changelog": "This is an example changelog for iOS. Go on...",
+        "latest-version": "0.0.0",
+        "download-url": "",
+        "changelog": "",
         "mandatory": true
       },
       "android": {
         "open-url": "",
-        "latest-version": "1.0",
-        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-        "changelog": "This is an example changelog for Android. Go on...",
+        "latest-version": "0.0.0",
+        "download-url": "",
+        "changelog": "",
         "mandatory": true
       }
     }
